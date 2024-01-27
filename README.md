@@ -1,2 +1,8 @@
-# Chore-DoreApp
-A hide and go seek app made with CSS, HTML and JS - CodeCademy 
+# Chore-Door App
+
+A CodeCademy Project :
+
+A hide and go seek game made with:
+* CSS
+* HTML
+* JS 
